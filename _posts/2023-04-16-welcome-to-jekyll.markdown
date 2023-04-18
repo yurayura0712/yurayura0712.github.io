@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ようこそ"
+title:  "日記その1"
 date:   2023-04-16 11:20:07 +0900
 categories: jekyll update
 ---
