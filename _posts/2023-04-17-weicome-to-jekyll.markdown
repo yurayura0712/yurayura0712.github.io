@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "日記その2"
-date:   2023-04-16 11:20:07 +0900
+date:   2023-04-17 21:36 +0900
 categories: jekyll update
 ---
 今日はゲーム作りについて調べました。
