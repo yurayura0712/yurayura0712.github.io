@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "日記その9"
-date:   2023-04-25 0:16 +0900
+date:   2023-04-26 0:16 +0900
 categories: jekyll update
 ---
 
